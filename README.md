@@ -18,6 +18,7 @@ INCLUDED SORTING ALGORITHMS
 * Merge Sort
 
 USAGE
+
 Execute program as follows: ./sort yourfile.txt
 
 Follow instructions in console.
