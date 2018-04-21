@@ -1,5 +1,5 @@
 # Sort-and-search
-Small number sorting program by Patrik Setterberg, 2018
+Small number sorting program by Patrik Setterberg, 2018.
 
 A mostly useless program written as an exercise which sorts a set of INTEGERS
 using several different sorting algorithms.
@@ -19,6 +19,7 @@ INCLUDED SORTING ALGORITHMS
 
 USAGE
 Execute program as follows: ./sort yourfile.txt
+
 Follow instructions in console
 
 ** INPUT FILE NOTES
