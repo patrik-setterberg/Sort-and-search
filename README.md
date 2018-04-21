@@ -5,9 +5,9 @@ A mostly useless program written as an exercise which sorts a set of INTEGERS
 using several different sorting algorithms.
 
 * Can sort data in ascending or descending order.
-* Takes input from file** specified as command line argument (see USAGE below)
+* Takes input from file** specified as command line argument (see USAGE below).
 * Options to output data either to console or file: FILENAME_sorted.txt
-* Option to search for a number in file. (binary search)
+* Option to search for a number in file (binary search).
 * Displays limited statistics after sorting.
 * Logs results of sorting in a log file (sort_log.txt).
 
@@ -20,7 +20,7 @@ INCLUDED SORTING ALGORITHMS
 USAGE
 Execute program as follows: ./sort yourfile.txt
 
-Follow instructions in console
+Follow instructions in console.
 
 ** INPUT FILE NOTES
 
