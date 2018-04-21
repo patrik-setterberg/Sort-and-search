@@ -23,6 +23,7 @@ Execute program as follows: ./sort yourfile.txt
 Follow instructions in console
 
 ** INPUT FILE NOTES
+
 Program accepts any number (up to INT_MAX = 2147483647) of integers, positive or negative,
 from specified .txt file. File may only contain integers, negative signs (-), spaces, tabs and
 line-breaks; no letters or symbols are allowed. List of integers may contain duplicates.
