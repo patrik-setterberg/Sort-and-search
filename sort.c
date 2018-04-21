@@ -31,13 +31,6 @@ many_numbers.txt (2,000 numbers), and so_many_numbers.txt (10,000 numbers)
 generated at https://www.random.org/
 */
 
-/*
-KNOWN ISSUES / TODO (send help!):
-
-User input over 1000 characters overflows get_input() but should only ever be 12 characters at most
-so unlikely to cause much trouble unless user intentionally seeks to break program.
-*/
-
 #include "header.h"
 
 char *numfile, *outfilename; // extern declared in header.h
