@@ -9,7 +9,7 @@ See sort.c for more information
 #define HEADER_H
 
 #define ALG_COUNT 4 // Number or sorting algorithms the program can use
-#define INT_MAX_LEN 12 // number of digits in limit.h's INT_MIN & INT_MAX (10 + 1 for newline + 1 for negative sign) ?? tror jag
+#define INT_MAX_LEN 12 // number of digits in limit.h's INT_MIN & INT_MAX (10 + 1 for newline + 1 for negative sign)
 #define NEGATIVE_SIGN 45 // ascii for "-", allow for negative numbers
 #define SUFFIX_LEN 12 // Length of "_sorted.txt" + 1 (for null terminator)
 #define _POSIX_C_SOURCE 199309L // For time.h, declaration of clock_gettime()?
